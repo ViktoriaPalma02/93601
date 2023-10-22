@@ -1,0 +1,9 @@
+This programme detects Fake News. For this to work, ensure you agree to the terms of service first. 
+
+Simply input a sample text or URL in the input box. Then, the output box will explain how likely your input is to contain fake news with a reliablity percentage alongside an explaination. 
+In the output box, for only inputed, texts a sentiment anaylsis will show the attitude the author(s) has towards the text. Polarity refers to the attitude they have towards the subject which is represented by three stances: positive, neutral or negative. 
+Subjectivity refers to the bias of the information. 0% refers to the subject manner objective whereas 100% means the program is very subjective.
+NOTICE: You must input the full url (directly copy from the web address) as this does not account for shortned urls. eg: "https://foxnews.com" not "foxnews.com"
+DISCLAIMER: The results shown is not an indicator of true accuracy and should be instead used to question and develop your digital and information literacy
+
+If you recieve a 0% on all factors, which should be impossible, it is likely that no webscraping has occured and you should change the input to be text or shorten it.
